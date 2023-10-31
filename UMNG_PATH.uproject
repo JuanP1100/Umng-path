@@ -3,13 +3,6 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "UMNG_PATH",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "LocationServicesAndroidImpl",
